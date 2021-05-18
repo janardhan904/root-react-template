@@ -8,12 +8,11 @@ const Service = () => {
       <div className='container pt-2 pb-5'>
         <div className='section-header pt-5 pb-5 text-center'>
           <h3 className='section-title'>
-            <span>Our </span>Services
+            <span>Our </span>Manam Solutions
           </h3>
           <h6 className='section-subtitle mr-auto ml-auto'>
-            Individualized quality care that meets the total needs of the
-            patient Individualized quality care that quality care that
-            Individualized quality care that meets the total.
+          
+          Discovery. Intelligence. Optimization. Powering IT Operations as a Service.
           </h6>
         </div>
         <div className='section-content'>
@@ -24,10 +23,10 @@ const Service = () => {
                   <i className='fas fa-briefcase' />
                 </div>
                 <div className='service-body'>
-                  <h5 className='service-title'>Business Planning</h5>
+                  <h5 className='service-title'>AIOps</h5>
                   <p className='service-description'>
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life
-                    accusamus terry richardson ad squid
+                  AIOps is the shorthand for artificial intelligence for IT operations. 
+                  AIOps leverages a broad set of technology approaches, including machine learning, network science, combinatorial optimization and other computational approaches for solving everyday IT operational problems at scale.
                   </p>
                 </div>
               </div>
@@ -38,10 +37,9 @@ const Service = () => {
                   <i className='fas fa-chart-bar' />
                 </div>
                 <div className='service-body'>
-                  <h5 className='service-title'>Product Marketing</h5>
+                  <h5 className='service-title'>IT Operations Management</h5>
                   <p className='service-description'>
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life
-                    accusamus terry richardson ad squid
+                  IT Operations Management (ITOM) is the process and framework for managing an organization’s business-critical applications and underlying hybrid IT infrastructure.
                   </p>
                 </div>
               </div>
@@ -52,10 +50,10 @@ const Service = () => {
                   <i className='fas fa-fist-raised' />
                 </div>
                 <div className='service-body'>
-                  <h5 className='service-title'>Risk Management</h5>
+                  <h5 className='service-title'>Migration</h5>
                   <p className='service-description'>
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life
-                    accusamus terry richardson ad squid
+                  Execute, Test, Track and Accept.
+                  Cloud operations teams can dynamically discover and onboard public cloud services across different business units for leading cloud providers
                   </p>
                 </div>
               </div>
@@ -68,8 +66,8 @@ const Service = () => {
                 <div className='service-body'>
                   <h5 className='service-title'>Market Research</h5>
                   <p className='service-description'>
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life
-                    accusamus terry richardson ad squid
+                  Market research is the process of determining the viability of a new service or product through research conducted directly with potential customers. 
+                  Market research allows a company to discover the target market and get opinions and other feedback from consumers about their interest in the product or service.
                   </p>
                 </div>
               </div>
@@ -80,10 +78,11 @@ const Service = () => {
                   <i className='fas fa-gem' />
                 </div>
                 <div className='service-body'>
-                  <h5 className='service-title'>Business Financing</h5>
+                  <h5 className='service-title'>IT Operations as a Service</h5>
                   <p className='service-description'>
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life
-                    accusamus terry richardson ad squid
+                  Modern IT Operations Management For An Increasingly Complex World.
+                  It used to be, with the rise of the digital customer experience, that every company was a software company.
+                  This is IT Operations as a Service. It’s the ability to deliver shared IT operations functions at scale to different lines of business within an enterprise.
                   </p>
                 </div>
               </div>
@@ -94,10 +93,9 @@ const Service = () => {
                   <i className='far fa-life-ring' />
                 </div>
                 <div className='service-body'>
-                  <h5 className='service-title'>Suppport Team</h5>
+                  <h5 className='service-title'>Upscale Your Services</h5>
                   <p className='service-description'>
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life
-                    accusamus terry richardson ad squid
+                  Customer trust and longevity are fundamental for long-term success and recurring revenues. You can combat commoditization by modernizing your tool sets and processes for delivering the value and functionality that your customers require.
                   </p>
                 </div>
               </div>

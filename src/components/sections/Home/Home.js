@@ -13,10 +13,9 @@ const home = () => {
           style={{ backgroundImage: `url(${bgImage})` }}
         >
           <div className='intro container text-center text-light'>
-            <h1 className='title'>WELCOME</h1>
+            <h1 className='title'>Control the Chaos of Hybrid IT Infrastructure.</h1>
             <h2 className='sub-title mb-4'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores
-              laborum minus molestiae.
+            Digital operations management, from discovery to resolution, powered by AIOps.
             </h2>
             <Link target='about' classes='btn btn-primary rounded-0 mr-2'>
               Learn More

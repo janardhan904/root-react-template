@@ -15,9 +15,7 @@ const Blog = () => {
             <span>Our </span>Blog
           </h3>
           <h6 className='section-subtitle mr-auto ml-auto'>
-            Individualized quality care that meets the total needs of the
-            patient Individualized quality care that quality care that
-            Individualized quality care that meets the total.
+            
           </h6>
         </div>
         <div className='section-content'>
@@ -26,11 +24,9 @@ const Blog = () => {
               <div className='card rounded-0'>
                 <img src={blogImage1} className='card-img-top' alt='Blog 1' />
                 <div className='card-body'>
-                  <h5 className='card-title'>High Quality Support</h5>
+                  <h5 className='card-title'>Hyperautomation</h5>
                   <p className='card-text'>
-                    Exercitation ullamco laboris nisi ut aliquip ex ea commodo.
-                    cillum dolore eu fugiat nulla pariatur commodo
-                    consequat.cillum dolore eu fugiat pariatur....
+                  Hyperautomation refers not just to the tasks and processes that can be automated but the level of automation.
                   </p>
                   <a href='#!' className='btn btn-sm btn-primary'>
                     Read More
@@ -42,11 +38,9 @@ const Blog = () => {
               <div className='card rounded-0'>
                 <img src={blogImage2} className='card-img-top' alt='Blog 2' />
                 <div className='card-body'>
-                  <h5 className='card-title'>Research Financial</h5>
+                  <h5 className='card-title'>Seven KPIs for AIOps</h5>
                   <p className='card-text'>
-                    Exercitation ullamco laboris nisi ut aliquip ex ea commodo.
-                    cillum dolore eu fugiat nulla pariatur commodo
-                    consequat.cillum dolore eu fugiat pariatur....
+                  Leaders looking to measure the benefits of AIOps and build KPIs for both IT and business audiences should focus on key factors such as uptime, so that potential outages affecting customers can be prevented.
                   </p>
                   <a href='#!' className='btn btn-sm btn-primary'>
                     Read More
@@ -58,11 +52,9 @@ const Blog = () => {
               <div className='card rounded-0'>
                 <img src={blogImage3} className='card-img-top' alt='Blog 3' />
                 <div className='card-body'>
-                  <h5 className='card-title'>Business Deal</h5>
+                  <h5 className='card-title'>IT Operations Metrics</h5>
                   <p className='card-text'>
-                    Exercitation ullamco laboris nisi ut aliquip ex ea commodo.
-                    cillum dolore eu fugiat nulla pariatur commodo
-                    consequat.cillum dolore eu fugiat pariatur....
+                  As one of the three pillars of observability, along with logs and traces, digesting metrics is a crucial part of any ITOps admins’ job. 
                   </p>
                   <a href='#!' className='btn btn-sm btn-primary'>
                     Read More

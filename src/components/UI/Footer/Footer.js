@@ -14,10 +14,7 @@ const footer = () => {
             <div className='footer-content'>
               <p>
                 <small className='text-muted'>
-                  Aenean suscipit eget mi act fermentum phasellus vulputate
-                  turpis tincidunt. Aenean suscipit eget. Aenean suscipit eget
-                  mi act fermentum phasellus vulputate turpis tincidunt. Aenean
-                  suscipit ege Aenean suscipit eget mi act fermentum phasellus.
+                Manam Solutions founded in 2018 to help solve critical pain points for enterprise IT organizations and the managed service providers (MSPs) that serve them. From on-premises to hybrid IT, multi-cloud, edge computing and shadow IT, it’s a tough world for IT operations teams to manage and optimize. Disconnected point tools miss the point. And stitched together legacy IT operations management (ITOM) suites were not built for the modern era.
                 </small>
               </p>
               <button className='btn btn-sm btn-primary rounded-0'>
@@ -58,17 +55,16 @@ const footer = () => {
             <div className='footer-content'>
               <p>
                 <small className='text-muted'>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                The Data-Driven IT Operations Organization
                 </small>
               </p>
               <p>
                 <small className='text-muted'>
-                  Pellentesque et pulvinar enim. Quisque at tempor ligula Natus
-                  error sit voluptatem
+                MSPs Evolve with AIOps
                 </small>
               </p>
               <p>
-                <small className='text-muted'>accusantium doloremque</small>
+                <small className='text-muted'>Hyperautomation in IT Operations</small>
               </p>
             </div>
           </div>
@@ -78,13 +74,13 @@ const footer = () => {
             </div>
             <div className='footer-content'>
               <p className='text-muted'>
-                <small>Address : 123 main street, Algiers, Algeria</small>
+                <small>Address : 104 Mytchett, Mytchett Road, GU16 6ET</small>
               </p>
               <p className='text-muted'>
-                <small>Phone : +213 (0) 123 456 789</small>
+                <small>Phone : +44 (0) 7459 860 770</small>
               </p>
               <p className='text-muted'>
-                <small>E-mail : contact@email.com</small>
+                <small>E-mail : director@manamsolutions.com</small>
               </p>
               <div className='social-media mt-4'>
                 <a href='!#' className='text-light'>
@@ -105,7 +101,7 @@ const footer = () => {
         </div>
       </div>
       <div className='bottom-footer pt-3 pb-3 text-center'>
-        <small>© All Right Reserved. Design By Mohamed Azouaoui</small>
+        <small>© All Right Reserved.</small>
       </div>
     </footer>
   );
